@@ -1,0 +1,10 @@
+C:\Users\On\source\repos\intro_PizzacıSiparişEkranı\intro_PizzacıSiparişEkranı\bin\Debug\intro_PizzacıSiparişEkranı.exe.config
+C:\Users\On\source\repos\intro_PizzacıSiparişEkranı\intro_PizzacıSiparişEkranı\bin\Debug\intro_PizzacıSiparişEkranı.exe
+C:\Users\On\source\repos\intro_PizzacıSiparişEkranı\intro_PizzacıSiparişEkranı\bin\Debug\intro_PizzacıSiparişEkranı.pdb
+C:\Users\On\source\repos\intro_PizzacıSiparişEkranı\intro_PizzacıSiparişEkranı\obj\Debug\intro_PizzacıSiparişEkranı.csprojAssemblyReference.cache
+C:\Users\On\source\repos\intro_PizzacıSiparişEkranı\intro_PizzacıSiparişEkranı\obj\Debug\intro_PizzacıSiparişEkranı.Properties.Resources.resources
+C:\Users\On\source\repos\intro_PizzacıSiparişEkranı\intro_PizzacıSiparişEkranı\obj\Debug\intro_PizzacıSiparişEkranı.csproj.GenerateResource.cache
+C:\Users\On\source\repos\intro_PizzacıSiparişEkranı\intro_PizzacıSiparişEkranı\obj\Debug\intro_PizzacıSiparişEkranı.csproj.CoreCompileInputs.cache
+C:\Users\On\source\repos\intro_PizzacıSiparişEkranı\intro_PizzacıSiparişEkranı\obj\Debug\intro_PizzacıSiparişEkranı.exe
+C:\Users\On\source\repos\intro_PizzacıSiparişEkranı\intro_PizzacıSiparişEkranı\obj\Debug\intro_PizzacıSiparişEkranı.pdb
+C:\Users\On\source\repos\intro_PizzacıSiparişEkranı\intro_PizzacıSiparişEkranı\obj\Debug\intro_PizzacıSiparişEkranı.frmPizzaciEkraniYEDEK.resources
